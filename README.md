@@ -1,4 +1,4 @@
-# GCN_ARG
+# GCM_ARG
 
 This is the code of the gating-controlled mechanism network for ARG(GCM_ARG) properties prediction in our manuscript (Subtask-aware Representation Learning for Predicting Antibiotic Resistance Gene Properties via Gating-controlled Mechanism)
 
