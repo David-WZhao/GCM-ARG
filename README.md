@@ -1,1 +1,1 @@
-# MTL_ARG_CGC
+# GCN_ARG
