@@ -12,9 +12,7 @@ This is the code of the gating-controlled mechanism network for ARG (GCM-ARG) pr
 ### Data
 The process of collecting data is described in our manuscript and metadata can be accessed upon request.
 You need first unzip all compressed files under "data", and put the files in the same directory.
-sdsdss
 
-sd
 
 ### How to run the code?
 1. Data preprocessing: "arg_v5.fasta" file is the original data set file, "fasta_process.ipynb" file is used on the original data set file to get the processed dataset.
